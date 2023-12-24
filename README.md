@@ -22,3 +22,5 @@
 <br clear="right"/>
 
 ## Колесо карьерного баланса
+
+[![img_002](data/img/img_002.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574157275256&cot=10)
