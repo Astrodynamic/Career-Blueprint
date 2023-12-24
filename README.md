@@ -24,3 +24,7 @@
 ## Колесо карьерного баланса
 
 [![img_002](data/img/img_002.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574157275256&cot=10)
+
+## Карьерные цели
+
+[![img_003](data/img/img_003.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574158256737&cot=14)
