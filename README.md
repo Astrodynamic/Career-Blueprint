@@ -141,8 +141,8 @@
 
 ## Карьерные цели(дополнено)
 
-[![img_005](data/img/img_004.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574158256737&cot=14)
+[![img_004](data/img/img_004.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574158256737&cot=14)
 
 ## Анализ навыков
 
-![Alt text](image.png)
+[![img_005](data/img/img_005.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574198402129&cot=14)
