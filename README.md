@@ -146,3 +146,10 @@
 ## Анализ навыков
 
 [![img_005](data/img/img_005.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574198402129&cot=14)
+
+## Резюме
+
+[![Alt text](data/img/img_006.jpg)](https://nn.hh.ru/resume/6436f25dff0b5f51830039ed1f574e48676a5a)
+[![Alt text](data/img/img_007.jpg)](https://nn.hh.ru/resume/6436f25dff0b5f51830039ed1f574e48676a5a)
+[![Alt text](data/img/img_008.jpg)](https://nn.hh.ru/resume/6436f25dff0b5f51830039ed1f574e48676a5a)
+[![Alt text](data/img/img_009.jpg)](https://nn.hh.ru/resume/6436f25dff0b5f51830039ed1f574e48676a5a)
