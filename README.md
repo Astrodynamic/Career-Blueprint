@@ -464,4 +464,4 @@
 
 ## ***План развития***
 
-[![img_010](image-1.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574306552834&cot=14)
+[![img_010](data/img/img_010.png)](https://miro.com/app/board/uXjVNeRuZN0=/?moveToWidget=3458764574306552834&cot=14)
